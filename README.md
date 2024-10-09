@@ -76,3 +76,6 @@ Swagger UI está disponible para facilitar la interacción con la API y para la 
 
 `http://localhost:8000/docs`
 
+![image](https://github.com/user-attachments/assets/0ffc056e-a7d1-406f-a6ee-55120d4cde97)
+
+
