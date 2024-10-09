@@ -63,12 +63,18 @@ Esta API está diseñada para gestionar una base de datos de clientes y películ
 
 ## Ejecución del Proyecto
 
-1. Asegúrate de tener Python y las dependencias necesarias instaladas.
-2. Ejecuta el siguiente comando para iniciar el servidor:
+1. Clona el repositorio en tu máquina local:
+   ```bash
+   git clone https://github.com/AlejandroJimenez16/CRUD_FastAPI_UsuPelis.git
 
-```bash
-uvicorn app:app --reload
-```
+2. Navega al directorio del proyecto:
+   ```bash
+   cd CRUD_FastAPI_UsuPelis
+   
+3. Asegúrate de tener Python y las dependencias necesarias instaladas.
+4. Ejecuta el siguiente comando para iniciar el servidor:
+   ```bash
+   uvicorn app:app --reload
 
 ## Acceso a Swagger
 
