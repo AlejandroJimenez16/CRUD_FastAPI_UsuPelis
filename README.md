@@ -67,7 +67,7 @@ Esta API está diseñada para gestionar una base de datos de clientes y películ
 2. Ejecuta el siguiente comando para iniciar el servidor:
 
 ```bash
-uvicorn main:app --reload
+uvicorn app:app --reload
 ```
 
 ## Acceso a Swagger
